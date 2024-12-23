@@ -1,0 +1,4 @@
+.venv/
+captures/
+home_security_system.db
+test_dir/
