@@ -3,3 +3,8 @@ numpy
 scipy
 torch
 ultralytics
+Pillow
+git+https://github.com/openai/CLIP.git
+tqdm
+ftfy 
+regex
