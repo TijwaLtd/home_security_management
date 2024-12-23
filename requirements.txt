@@ -1,6 +1,5 @@
-opencv-python
-ultralytics
-opencv-python-headless
-face_recognition
-dlib
+deepface
 numpy
+scipy
+torch
+ultralytics
